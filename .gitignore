@@ -1,0 +1,7 @@
+/assets
+# .gitignore
+*.log
+*.tmp
+*.bak
+.DS_Store
+# Add other patterns here
